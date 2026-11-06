@@ -2,7 +2,7 @@
 [어린이서비스] 어린이도서관 견학 PPT — 달성어린이숲도서관 견학 보고 (15장, 5–7분 발표)
 
 ## 보기
-- 웹 슬라이드: https://lotussyyy.github.io/library-ppt/
+- 웹 슬라이드: https://lotussyyy.github.io/Library-PPT/ (Pages 켠 뒤 사용 가능)
 - 조작: ← → 키(또는 스와이프)로 이동, **N** 발표 대본 보기, **F** 전체 화면
 - 특정 페이지로 바로 가기: 주소 끝에 `#5` 처럼 페이지 번호 붙이기
 
